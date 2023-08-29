@@ -4,7 +4,7 @@ from flight_data import FlightData
 
 # Create constant/global variables #######
 TEQUILA_ENDPOINT = "https://tequila-api.kiwi.com"
-TEQUILA_API_KEY = "W0PCDS4xzZ0FVx5iCdWWrCa48wh7A5oO"
+TEQUILA_API_KEY = "YOUR TEQUILA API KEY"
 
 
 class FlightSearch:
